@@ -1,0 +1,22 @@
+{
+  "name": "buttchat",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aatrostle/buttchat.git"
+  },
+  "keywords": [
+    "friendship"
+  ],
+  "author": "aatrostle <aaron.trostle@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aatrostle/buttchat/issues"
+  },
+  "homepage": "https://github.com/aatrostle/buttchat#readme"
+}
