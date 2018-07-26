@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/aatrostle/buttchat/issues"
   },
-  "homepage": "https://github.com/aatrostle/buttchat#readme"
+  "homepage": "https://github.com/aatrostle/buttchat#readme",
+  "dependencies": {
+    "next": "^6.1.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
 }
