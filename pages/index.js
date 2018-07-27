@@ -1,8 +1,13 @@
-import { Fragment } from 'react';
+import Layout from '../components/layout'
 
-export default () => (
-  <Fragment>
-    <h3>Welcome to ButtChat!</h3>
-  </Fragment>
-);
+const Index = () => (
+	<Layout>
+		<div>
+			<h1>ButtChatt</h1>
+			<p>Welcome to ButtChat!</p>
 
+		</div>
+	</Layout>
+)
+
+export default Index;
